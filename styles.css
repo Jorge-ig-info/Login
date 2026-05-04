@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+form {
+    background: white;
+    padding: 15px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+}
+
+#mensaje {
+    margin-top: 10px;
+    font-weight: bold;
+}
